@@ -1,0 +1,9 @@
+{
+  "firebase": "redx",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
