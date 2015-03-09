@@ -1,7 +1,7 @@
 {
-  "name": "Lawnco",
+  "name": "RedX.co",
   "version": "1.0.0",
-  "description": "Lawn co website",
+  "description": "RedX.co",
   "dependencies": {
     "harp": "*",
     "firebase": "^2.1.2"
